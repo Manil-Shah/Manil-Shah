@@ -1,3 +1,4 @@
+![Header](./github-manil-header.png)
 <h1 align="center">Hi 👋, I'm Manil Shah</h1>
 <h3 align="center">Fullstack Developer | Turning Ideas into Dynamic Web Applications</h3>
 
