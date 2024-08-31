@@ -1,4 +1,4 @@
-![Header](./github-manil-header.png)
+![Header](./manil.png)
 <h1 align="center">Hi 👋, I'm Manil Shah</h1>
 <h3 align="center">Fullstack Developer | Turning Ideas into Dynamic Web Applications</h3>
 
@@ -14,7 +14,7 @@ I hold a Master’s degree in Computer Applications from Dharmsinh Desai Univers
   <li><b>Backend Development:</b> Proficient in C# and .NET for building scalable and efficient server-side applications.</li>
   <li><b>Database Management:</b> Experienced with SQL Server to design and manage robust database systems.</li>
   <li><b>Frontend Development:</b> Skilled in Angular for creating dynamic and responsive web interfaces.</li>
-  <li><b>Fullstack Integration:</b> Combining frontend and backend technologies to deliver cohesive and high-performance web applications.</li>
+ 
 </ul>
 </p>
 <p>
